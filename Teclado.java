@@ -21,6 +21,8 @@ import java.util.regex.*;     // Para poder usar patrones
 public class Teclado {
 
    public static final Scanner leerTeclado = new Scanner(System.in);
+  
+  //comentario desde github
    
    public static String leeTexto(String mensaje) {
       System.out.print(mensaje + ": ");
